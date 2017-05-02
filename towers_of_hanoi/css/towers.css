@@ -1,0 +1,35 @@
+.hanoi {
+  width: 500px;
+}
+
+ul {
+  float: left;
+  width: 100px;
+  height: 200px;
+  border-bottom: 5px solid red;
+  margin-right: 20px;
+}
+
+li {
+  float: left;
+  border: 2px dotted blue;
+  width: 50px;
+  height: 50px;
+  background-color: "red";
+  list-style-type: none;
+}
+
+.disc1 {
+  width: 25px;
+  height: 40px;
+}
+
+.disc2 {
+  width: 50px;
+  height: 40px;
+}
+
+.disc3 {
+  width: 75px;
+  height: 40px;
+}
